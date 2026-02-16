@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { ArrowRight, Star, Quote, CheckCircle2, ChevronRight } from "lucide-react";
+import { ArrowRight, Star, Quote, CheckCircle2, ChevronRight, MapPin, Phone } from "lucide-react";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { FloatingWhatsApp } from "@/components/FloatingWhatsApp";
